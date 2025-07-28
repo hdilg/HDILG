@@ -1,18 +1,7 @@
-# Node modules
-node_modules/
+# مشروع منصة الإجازات الطبية
 
-# Logs
-*.log
-logs/
+موقع ويب يستخدم Express.js لتوفير API للتحقق من بيانات الإجازات الطبية، مع واجهة مستخدم HTML + JavaScript.
 
-# OS files
-.DS_Store
-Thumbs.db
+## التشغيل محلياً
 
-# Environment variables
-.env
-
-# Debug files
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
+1. تثبيت الحزم:  
