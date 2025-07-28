@@ -1,16 +1,18 @@
-## Hi there 👋
+# Node modules
+node_modules/
 
-<!--
-**hdilg/HDILG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Logs
+*.log
+logs/
 
-Here are some ideas to get you started:
+# OS files
+.DS_Store
+Thumbs.db
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Environment variables
+.env
+
+# Debug files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
